@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myx:home|Door43 (myx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myx|d43-myx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myx/archive/master.zip|d43-myx.zip]]
+
+**Recent Changes**
+{{changes>ns = myx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myx|Ethnologue data]]
+
